@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijayalaxmi Gangade
-- 👀 I’m interested in Data Analyst.
-- 🌱 I’m currently learning Data Analyst.
+- 👀 I’m interested in Data Analyst and Data Science.
+- 
 -
 
 
